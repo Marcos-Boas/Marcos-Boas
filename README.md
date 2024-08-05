@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ## 🚀 Projetos em Destaque
 - [Projeto Individual - Faculdade](https://github.com/Marcos-Boas/Q1-Final-Project.git) - Uma aplicação para explicar um pouco mais sobre a importância das skins nos jogos eletrônicos e aplicar os conhecimentos estudados.
-- [Projeto em Grupo - Faculdade](https://github.com/Marcos-Boas/site-institucional-1sem.git) - Um site completo envovendo arduino, construção de gráficos em tempo real, design e lógica.
+- [Projeto em Grupo - Faculdade](https://github.com/Marcos-Boas/site-institucional-1sem.git) - Um site completo envolvendo arduino, construção de gráficos em tempo real, design e lógica.
 
 ## 🤝 Vamos nos conectar!
 Estou sempre aberto a colaborações e novas ideias!
