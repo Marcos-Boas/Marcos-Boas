@@ -8,7 +8,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 ## 🛠️ Tecnologias
 - Linguagens: `Python`, `Java`, `JavaScript`, `PHP`
 - Frameworks: `React`, `Node.js`
-- BI: `Power Bi`, `Looker Studio`
+- `Power Bi`
 
 ## 🚀 Projetos em Destaque
 - [Projeto Individual - Faculdade](https://github.com/Marcos-Boas/Q1-Final-Project.git) - Uma aplicação para explicar um pouco mais sobre a importância das skins nos jogos eletrônicos e aplicar os conhecimentos estudados.
